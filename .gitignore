@@ -21,9 +21,10 @@ Gemfile.lock
 .*
 !.github
 
-# jekyll cache
+# bundler cache
 _site
 vendor
+Gemfile.lock
 
 # rubygem
 *.gem
